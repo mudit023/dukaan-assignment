@@ -1,0 +1,24 @@
+.container{
+  width: 75%;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  margin-top: 80px;
+}
+.container h2{
+  font-weight: 600;
+font-size: 36px;
+line-height: 42px;
+/* identical to box height, or 117% */
+
+letter-spacing: -0.04em;
+
+/* colors/black/12 */
+
+color: #1A181E;
+}
+.products{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+}

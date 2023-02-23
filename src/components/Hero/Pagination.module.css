@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin-top: 26px;
+}
+a {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #146eb4;
+}
+.prev {
+  opacity: 0;
+}
+
+.pages {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+#current{
+  background-color: #146eb4;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#current a{
+    color: #fff;
+}
