@@ -29,9 +29,6 @@
 }
 
 .btn a {
-  position: relative;
-  top: 0px;
-  right: 200px;
   font-size: 18px;
   font-weight: 400;
   color: #fff;
@@ -39,8 +36,6 @@
 }
 
 .btn button {
-  position: fixed;
-  right: 238px;
   border: none;
   background-color: #fff;
   color: #146eb4;
