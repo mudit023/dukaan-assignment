@@ -15,12 +15,8 @@ function Top() {
       <div className={classes.slogan}>
         <label htmlFor="inp">Word for your slogan</label>
         <div className={classes.input}>
-          <div>
             <input type="text" placeholder="cozy" id="inp" />
-          </div>
-          <div>
             <img src={cross} alt="cross" />
-          </div>
         </div>
       </div>
       <div className={classes.btn}>

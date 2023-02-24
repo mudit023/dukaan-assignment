@@ -4,12 +4,12 @@
   flex-direction: column;
 }
 
-img{
+.productImg{
   display: block;
   margin-bottom: 16px;
 }
 
-h3{
+.productHeading{
   margin-bottom: 4px;
   font-weight: 400;
 font-size: 20px;
@@ -21,8 +21,7 @@ line-height: 28px;
 
 color: #1A181E;
 }
-
-p{
+.productDes{
   font-style: normal;
 font-weight: 400;
 font-size: 16px;
